@@ -29,12 +29,15 @@ The project likely consists of a single Python file containing the chatbot's cod
 ## Example Interaction
 
 User: Hello!
+
 Chatbot: Hi there! How can I help you today?
 
 User: What is your name?
+
 Chatbot: I am a simple chatbot.
 
 User: Tell me a joke.
+
 Chatbot: Why don't scientists trust atoms? Because they make up everything!
 
 ## Future Enhancements
