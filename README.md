@@ -48,6 +48,10 @@ Chatbot: Why don't scientists trust atoms? Because they make up everything!
 - **Integration with External Services:** Connect the chatbot to external services, such as APIs for weather information, news updates, or other functionalities.
 - **GUI Development:** Create a graphical user interface (GUI) for a more user-friendly interaction experience.
 
+## Requirements
+
+
+
 ## Disclaimer
 
 This README.md is based on the assumption that the repository contains a simple rule-based chatbot implemented in Python. Further details about specific functionalities and implementations might be available within the project's code. 
