@@ -61,3 +61,6 @@ Chatbot: Why don't scientists trust atoms? Because they make up everything!
 ## Disclaimer
 
 This README.md is based on the assumption that the repository contains a simple rule-based chatbot implemented in Python. Further details about specific functionalities and implementations might be available within the project's code. 
+
+
+*Developed by Arupa Nanda Swain*
