@@ -1,4 +1,4 @@
-# Mini Chatbot
+# Mini Chatbot (Rule-Based + LLaMA 3.2)
 
 This project implements a simple chatbot using Python and a rule-based approach. The chatbot is designed to respond to user inputs based on predefined patterns and rules.
 
